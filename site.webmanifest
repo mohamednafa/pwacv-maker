@@ -1,0 +1,27 @@
+{
+    "name": "cv-maker",
+    "short_name": "cv-maker",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-haj0xnKCDv8/YSkEtgQ8irI/AAAAAAAAAiQ/w0v9XQDXJz4fMV7ZFkowmRon6tvBoYSigCNcBGAsYHQ/s0/cv-maker-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-aVcwkLiRvfc/YSkEtjmnfoI/AAAAAAAAAiI/pOirNToz5IEn7aY7th5VKPOxv-wOHR4ZQCNcBGAsYHQ/s0/cv-maker-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#031096",
+    "background_color": "#031096",
+    "display": "standalone",
+    "prefer_related_applications": false,
+    "description": "cv-maker",
+    "lang": "ar",
+    "categories": ["education", "news"],
+    "orientation": "portrait",
+  "start_url": "https://www.cv-maker.online"
+}
